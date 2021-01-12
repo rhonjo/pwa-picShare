@@ -1,0 +1,20 @@
+{
+  "name": "pwa-picshare",
+  "version": "1.0.0",
+  "description": "PWA share pics",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -c-1"
+  },
+  "keywords": [
+    "pwa",
+    "progressive",
+    "web",
+    "app"
+  ],
+  "author": "Ryota Honjo",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "^0.9.0"
+  }
+}
